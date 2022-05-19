@@ -28,7 +28,7 @@ npm run build
 
 
 ## Explanation
-You can find the detail explanation of the signaling server flow in [this medium blog](https://mrizkysatrio.medium.com/sending-notification-with-line-notify-using-react-and-netlify-7a86006705e7).
+You can find the detail explanation of this repository in [this medium blog](https://mrizkysatrio.medium.com/sending-notification-with-line-notify-using-react-and-netlify-7a86006705e7).
 
 
 ## Feedback
