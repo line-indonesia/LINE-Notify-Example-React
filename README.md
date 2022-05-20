@@ -2,9 +2,6 @@
 
 A simple example of how to use LINE Notify API.
 
-You can try the live application at:
-
-https://darling-salmiakki-3f2ee5.netlify.app/
 
 
 ## Features
